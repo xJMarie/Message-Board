@@ -16,8 +16,3 @@ A student-project message board. Where it allows a client application program to
 - Place "g4_udp_server.py" and "g4_udp_client.py" in the directory of the cloud host (via PuTTY / WinSCP)
 - Compile and run the file to their respective terminal window `g4_udp_server.py`, `g4_udp_client.py`
 - Place IP Address (Default: `192.168.0.20`) and Port (Default: `8001`)
-
-
-### Disclaimer:
-
-- The program has met all the specifications required.
